@@ -1,12 +1,17 @@
+.app{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+}
 form {
   background-color: rgb(255, 227, 149);
-  margin: 50px;
   display: flex;
   flex-direction: column;
 }
 
 header{
-margin: 50px;
+
 text-align: center;
 }
 .new-buttons{
